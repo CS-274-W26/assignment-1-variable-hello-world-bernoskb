@@ -1,6 +1,6 @@
 #include <stdio.h> // Necessary for print
 #include <stdlib.h> // Adds standard library of functions including the random
-//myrandgenerator
+//number rand() function
 
 
 
